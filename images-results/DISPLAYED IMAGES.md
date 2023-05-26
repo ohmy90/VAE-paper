@@ -3,8 +3,8 @@
         Reconstruction 1
         ![Reconstruction 1](https://github.com/ohmy90/VAE-paper-code/blob/main/images-results/reconstruction_1.png)
 
-        Reconstruction 2
-        ![Reconstruction 2](https://github.com/ohmy90/VAE-paper-code/blob/main/images-results/reconstruction_2.png)
+Reconstruction 2
+                                  ![Reconstruction 2](https://github.com/ohmy90/VAE-paper-code/blob/main/images-results/reconstruction_2.png)
 
         Reconstruction 3
         ![Reconstruction 3](https://github.com/ohmy90/VAE-paper-code/blob/main/images-results/reconstruction_3.png)
