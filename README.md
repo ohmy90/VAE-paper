@@ -1,5 +1,8 @@
 #VAE-paper
 
+This code is used from https://github.com/pytorch/examples/tree/main/vae.
+
+
 Sample 1
 ![Sample 1](https://github.com/ohmy90/VAE-paper-code/blob/main/images-results/sample_1.png)
 
