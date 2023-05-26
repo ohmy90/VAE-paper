@@ -23,3 +23,9 @@ Reconstruction 7
 
 Reconstruction 8
 ![Reconstruction 8](https://github.com/ohmy90/VAE-paper-code/blob/main/images-results/reconstruction_8.png)
+
+Reconstruction 9
+![Reconstruction 9](https://github.com/ohmy90/VAE-paper-code/blob/main/images-results/reconstruction_9.png)
+
+Reconstruction 10
+![Reconstruction 10](https://github.com/ohmy90/VAE-paper-code/blob/main/images-results/reconstruction_10.png)
